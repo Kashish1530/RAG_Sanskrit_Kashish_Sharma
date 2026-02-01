@@ -25,6 +25,7 @@ Keyword Matcher	BM25 (k1=1.5, b=0.75)
 Text Splitter	RecursiveCharacterTextSplitter, 500-char chunks, 100-char overlap
 
 📁 Folder Structure
+
 RAG_Sanskrit_Kashish/
 ├── code/
 │   ├── app.py           # Query interface & RAG execution
